@@ -10,9 +10,9 @@ This tutorial outlines the post-installation configuration of the osTicket softw
 - Configure Agents
 - Configure Service Level Agreements (SLAs)
 
-<h2>Installation Steps</h2>
+<h2>Adding Roles</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
+<img src="https://i.imgur.com/9a8XikC.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
 </p>
 <h2>Installation Steps</h2><br />
 <p>
