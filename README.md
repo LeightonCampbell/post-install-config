@@ -3,11 +3,11 @@
 This tutorial outlines the post-installation configuration of the osTicket software.<br />
 
 
-<h2>Some Post Installation Steps</h2>
+<h2>Post Installation Steps</h2>
 
-- Configure Roles SLAs Agents
+- Configure Roles
 - Configure Departments
-- Configure Departments
+- Configure Agents
 - Configure Service Level Agreements (SLAs)
 
 <h2>Installation Steps</h2>
