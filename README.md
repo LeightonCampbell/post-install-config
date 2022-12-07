@@ -12,18 +12,20 @@ This tutorial outlines the post-installation configuration of the osTicket softw
 
 <h2>Adding Roles</h2>
 <p>
-<img src="https://i.imgur.com/9a8XikC.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
+<img src="https://i.imgur.com/9a8XikC.png" height="80%" width="80%" alt="OsTicket Post Installation"/>
 </p>
-<h2>Adding An Agent With Admin Privileges</h2><br />
+<h2>Adding Admin Level Agent</h2><br />
 <p>
-Extracting OsTicket from a compressed state before installing it.
 </p>
+
+<p>
+<img src="https://i.imgur.com/kiMgcri.png" height="80%" width="80%" alt="OsTicket Post Installation"/>
+</p>
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/kiMgcri.png" height="80%" width="80%" alt="OsTicket Prerequisite"/>
+<img src="https://i.imgur.com/Ix8N14c.png" height="80%" width="80%" alt="OsTicket Post Installation"/>
 </p>
-<p>
-OsTicket requires several prerequitsites to both install and operate as a stable ticketing system. Here, you see one of the final stages, enabling required exensions, before software configuration begins.
-</p>
+
 <br />
